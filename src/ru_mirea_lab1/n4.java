@@ -1,4 +1,4 @@
-package ru.mirea.lab1;
+package ru_mirea_lab1;
 import java.util.Scanner;
 
 public class n4 {
@@ -19,7 +19,6 @@ public class n4 {
         int i = 0;
         int mn = 10 * 10 ^ 21;
         int mx = 0;
-
 
         do {
             sum += sp[i];

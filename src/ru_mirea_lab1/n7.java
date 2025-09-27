@@ -1,4 +1,4 @@
-package ru.mirea.lab1;
+package ru_mirea_lab1;
 
 public class n7 {
     public static long factorial(int n) {

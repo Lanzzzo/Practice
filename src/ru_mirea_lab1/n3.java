@@ -1,4 +1,4 @@
-package ru.mirea.lab1;
+package ru_mirea_lab1;
 
 public class n3 {
     public static void main(String[] args) {
